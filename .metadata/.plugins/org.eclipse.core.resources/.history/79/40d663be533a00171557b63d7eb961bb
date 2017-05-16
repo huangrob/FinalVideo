@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public Wizards() {
+		this.SteveBannon = "Apocalypse";
+		this.JeffSessions = "Department Of Injustice";
+		this.SeanSpicer = "Even Nazi Germany didn’t use chemical weapons";
+		this.PresidentLocation = "Moscow";
+	}
+}

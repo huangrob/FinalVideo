@@ -1,0 +1,40 @@
+
+public class Wizards {
+
+	private String SteveBannon;
+	private String JeffSessions;
+	private String SeanSpicer;
+	private String PresidentLocation;
+
+	public String getSteveBannon() {
+		return SteveBannon;
+	}
+	
+	public String getJeffSessions() { 
+		return JeffSessions;
+	}
+				
+	public String getSeanSpicer() {
+		return SeanSpicer;
+	}
+				
+	public String getPresidentLocation() {
+		return PresidentLocation;
+	}	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public Wizards() {
+		this.SteveBannon = "Apocalypse";
+		this.JeffSessions = "Department Of Injustice";
+		this.SeanSpicer = "Even Nazi Germany didn’t use chemical weapons";
+		this.PresidentLocation = "Moscow";
+	}
+}

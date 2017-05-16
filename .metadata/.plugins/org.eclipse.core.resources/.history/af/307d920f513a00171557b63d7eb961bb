@@ -1,0 +1,11 @@
+
+public class WizardCircle {
+
+	public static void main(String[] args){
+		Wizards wizard = new Wizards();
+		wizard.getSteveBannon();
+		wizard.getJeffSessions();
+		wizard.getSeanSpicer();
+		wizard.getPresidentLocation();
+	}
+}
